@@ -10,29 +10,6 @@ I enjoy working on projects that combine **software engineering fundamentals** w
 
 ## 🚀 Featured Projects
 
-### 🎟️ Ticket-Office (Java)
-**Console-based Ticket Office Simulation**
-
-- Passenger creation & management  
-- Seat reservation and cancellation  
-- Reservation listing and control  
-- Focused on **OOP principles** and clean Java structure  
-
-📌 Built from scratch to practice core Java and system logic.
-
----
-
-### 🎵 Song-Research-System (Java)
-**Music Management & Search System**
-
-- Loads songs from a text file  
-- Add, search, and delete songs  
-- Uses **three Binary Search Trees** (ID, name, artist)  
-- Emphasis on **data structures & algorithmic thinking**
-
-📌 Academic-style project demonstrating efficient data indexing.
-
----
 
 ### 🤖 YouTube-AI-Lyrics-Album-Analysis-Agent (Python)
 **End-to-End AI Analysis Pipeline**
