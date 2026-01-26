@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tolga Değirmenci (QuietLess)
+# Hi, I’m Tolga Değirmenci (QuietLess)
 
 🎓 Computer Engineering Graduate  
 🤖 Interested in Artificial Intelligence, Machine Learning & IoT  
@@ -8,10 +8,10 @@ I enjoy working on projects that combine **software engineering fundamentals** w
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 
-### 🤖 YouTube-AI-Lyrics-Album-Analysis-Agent (Python)
+### YouTube AI Lyrics Album Analysis Agent (Python)
 **End-to-End AI Analysis Pipeline**
 
 - Takes a YouTube music video URL  
@@ -23,7 +23,7 @@ I enjoy working on projects that combine **software engineering fundamentals** w
 
 ---
 
-### 🛡️ Suspicious-Activity-Monitor (Swift) *(Forked – Team Project)*
+### Suspicious Activity Monitor (Swift) *(Forked – Team Project)*
 **Edge-AI Security System**
 
 - Turns a webcam into a real-time security monitor  
@@ -34,7 +34,7 @@ I enjoy working on projects that combine **software engineering fundamentals** w
 
 ---
 
-### 🌐 Darlondia-Gaming-Site (Java) *(Forked – Team Project)*
+### 🌐 Darlondia Gaming Site (Java) *(Forked – Team Project)*
 **Game Review Website**
 
 - Developed as part of **SOFT3102 – Software Development Practice**  
@@ -70,7 +70,7 @@ I enjoy working on projects that combine **software engineering fundamentals** w
 
 ## 📫 Let’s Connect
 
-- 🐙 GitHub: https://github.com/QuietLess  
+- GitHub: https://github.com/QuietLess  
 
 I’m always open to learning, collaboration, and building meaningful projects 🚀
 
