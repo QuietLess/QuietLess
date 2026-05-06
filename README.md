@@ -35,10 +35,24 @@
 
 ## :technologist: &nbsp;About Me
 
-🎓 **Computer Engineering Graduate** | Işık University (2019 - 2025)  
-📍 **Based in:** Istanbul, Türkiye  
-🇪🇺 **Dual Citizenship:** Turkey & Greece (EU) — Eligible to work in all EU countries  
-🎯 **Career Focus:** Aspiring Data Scientist  
+<table>
+  <tr>
+    <td><strong>Education</strong></td>
+    <td>Computer Engineering Graduate | Işık University (2019 - 2025)</td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Istanbul, Türkiye</td>
+  </tr>
+  <tr>
+    <td><strong>Work Eligibility</strong></td>
+    <td>Dual citizenship with Turkey & Greece (EU) — eligible to work in all EU countries</td>
+  </tr>
+  <tr>
+    <td><strong>Career Focus</strong></td>
+    <td>Aspiring Data Scientist</td>
+  </tr>
+</table> 
 
 I am focused on building a career in **Data Science**, with a strong interest in **Machine Learning, AI-powered analytics, Business Intelligence, and data-driven software projects**.
 
