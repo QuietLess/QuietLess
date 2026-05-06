@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Tolga%20Degirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20BI%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8B5CF6,100:EC4899&height=200&section=header&text=Tolga%20Degirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
