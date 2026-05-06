@@ -1,55 +1,76 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Tolga%20Değirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Specialist&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Tolga%20Değirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20BI%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+AI-powered+Solutions+%F0%9F%A4%96;Data+Driven+Decision+Making+%F0%9F%93%8A;Computer+Engineering+@+Isik+University" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Aspiring+Data+Scientist;Computer+Engineering+Graduate;Data+Analysis+%7C+Machine+Learning+%7C+AI;Building+data-driven+and+AI-powered+solutions" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:tolgadegirmenci4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/tolga-degirmencii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/QuietLess"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="mailto:tolgadegirmenci4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/tolga-degirmencii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/QuietLess">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://quietless.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.kaggle.com/tolgadeirmenci">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
+  <a href="https://huggingface.co/QuietLess">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuietLess&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=QuietLess&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :technologist: &nbsp;About Me
+## 👨‍💻 About Me
 
-🎓 **Computer Engineering Graduate** | Işık University (2019 - 2025)
-🇪🇺 **Dual Citizenship:** Turkey & Greece (EU) - Eligible to work in all EU countries
-🚀 Passionate about **Data Science, AI-based programming, and Machine Learning**.
+🎓 **Computer Engineering Graduate** from **Işık University**  
+📍 Based in **Istanbul, Türkiye**  
+🇪🇺 **Dual Citizenship:** Turkey & Greece — eligible to work in all EU countries  
+🎯 Focused on building a career as a **Data Scientist**
 
-I specialize in transforming complex datasets into actionable insights and building AI-powered systems. My background spans from Business Intelligence to Deep Learning, with hands-on experience in leading tech companies.
+I am developing myself in **Data Science, Machine Learning, AI-powered analytics, Business Intelligence, and data-driven software projects**.  
+My background includes hands-on experience in **Power BI dashboards, SQL-based reporting, data analysis, machine learning, computer vision, and AI pipeline development**.
+
+I enjoy transforming complex datasets into meaningful insights and building intelligent systems that solve real-world problems.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :rocket: &nbsp;Experience & Education
+## 🚀 Experience & Education
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>:briefcase: Experience</h4>
+      <h3>💼 Experience</h3>
       <ul>
-        <li><strong>Doğuş Teknoloji</strong> — BI & Data Warehouse Intern</li>
-        <li><strong>DenizBank</strong> — MIS Intern</li>
-        <li><strong>OBAMIND</strong> — Business Intelligence Intern</li>
-        <li><strong>Argenit Teknoloji</strong> — Machine Learning Engineering Intern</li>
+        <li><strong>Doğuş Teknoloji</strong><br/>Business Intelligence & Data Warehouse Intern</li>
+        <li><strong>DenizBank</strong><br/>Management Information Systems Intern</li>
+        <li><strong>OBAMIND Teknoloji Hizmetleri</strong><br/>Business Intelligence Intern</li>
+        <li><strong>Argenit Teknoloji</strong><br/>Machine Learning Engineering Intern</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>:mortar_board: Education</h4>
+      <h3>🎓 Education</h3>
       <ul>
-        <li><strong>Işık University</strong> — BSc Computer Science</li>
-        <li><strong>Hacı Sabancı Anatolian HS</strong> — Science & Math</li>
+        <li><strong>Işık University</strong><br/>BSc Computer Science, 2019–2025</li>
+        <li><strong>Hacı Sabancı Anatolian High School</strong><br/>2015–2019</li>
       </ul>
-      <h4>:star: Key Certifications</h4>
+      <h3>📚 Learning Path</h3>
       <ul>
-        <li><strong>Google</strong> — AI and Technology Academy</li>
-        <li><strong>Miuul</strong> — Data Science & GenAI Path</li>
+        <li><strong>Google</strong> — Artificial Intelligence and Technology Academy</li>
+        <li><strong>Miuul</strong> — Data Science Path</li>
+        <li><strong>Miuul</strong> — GenAI and Prompt Engineer Path</li>
       </ul>
     </td>
   </tr>
@@ -57,44 +78,115 @@ I specialize in transforming complex datasets into actionable insights and build
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :bulb: &nbsp;Featured Projects
+## ⭐ Featured Projects
 
-- 🎵 **YouTube AI Lyrics Agent**: AI-driven pipeline analyzing YouTube music metadata and lyrics using GPT-4o and Nomic embeddings.
-- 🛡️ **Suspicious Activity Monitor**: Full-stack real-time surveillance system using fine-tuned **YOLOv11** and Firebase.
-- 🎮 **Darlondia**: A gaming community platform built with **Spring Boot, React.js, and MongoDB**.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>
+        <a href="https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent">
+          🎵 YouTube AI Lyrics & Album Analysis Agent
+        </a>
+      </h3>
+      <p>
+        End-to-end AI pipeline that analyzes a YouTube music video URL, retrieves album information,
+        processes lyrics, and generates token-level analytics and embeddings.
+      </p>
+      <p>
+        <strong>Tech:</strong> Python, GPT-4o-mini, Apify, Genius scraping, Nomic embeddings
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>
+        <a href="https://github.com/QuietLess/Suspicious-Activity-Monitor">
+          🛡️ Suspicious Activity Monitor
+        </a>
+      </h3>
+      <p>
+        Graduation project focused on real-time suspicious activity detection using deep learning,
+        video stream processing, and mobile alerts.
+      </p>
+      <p>
+        <strong>Tech:</strong> YOLOv11, Computer Vision, Firebase, Mobile App
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>
+        <a href="https://github.com/QuietLess/Darlondia-Gaming-Site">
+          🎮 Darlondia Gaming Website
+        </a>
+      </h3>
+      <p>
+        Community-driven gaming platform where users can rate, review, and discuss games through
+        a modern full-stack web architecture.
+      </p>
+      <p>
+        <strong>Tech:</strong> Spring Boot, React.js, Node.js, MongoDB
+      </p>
+    </td>
+  </tr>
+</table>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :wrench: &nbsp;Technical Expertise
+## 🧠 Current Focus
+
+- 📊 Data Analysis and Data Visualization  
+- 🤖 Machine Learning and Model Evaluation  
+- 🧩 Feature Engineering and Predictive Modeling  
+- 🧠 AI-powered analytics and intelligent data products  
+- 🗄️ SQL-based reporting and business intelligence dashboards  
+- 🤗 Exploring open-source ML models and AI tools through Hugging Face  
+- 🏆 Practicing data science workflows and competitions through Kaggle  
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
+## 🛠️ Technical Stack
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3178C6?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=jupyter&logoColor=white)
-![BI](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-### &nbsp;Tech Stack
-
-<div align="center">
+### Data Science & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=opencv&logoColor=white)
+
+### BI & Databases
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Development & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_EC2/S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-## :bar_chart: &nbsp;GitHub Stats
+## 🌍 Languages
+
+- 🇹🇷 Turkish — Native  
+- 🇬🇧 English — C1  
+- 🇩🇪 German — A1 / Learning  
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuietLess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
