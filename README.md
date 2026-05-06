@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=220&section=header&text=Tolga%20Değirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20BI%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
+<h1 align="center">Hi, I'm Tolga Değirmenci 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Aspiring+Data+Scientist;Computer+Engineering+Graduate;Data+Analysis+%7C+Machine+Learning+%7C+AI;Building+data-driven+and+AI-powered+solutions" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Aspiring Data Scientist | Computer Engineering Graduate | AI & BI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:tolgadegirmenci4@gmail.com">
@@ -31,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=QuietLess&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## 👨‍💻 About Me
 
@@ -40,12 +36,13 @@
 🇪🇺 **Dual Citizenship:** Turkey & Greece — eligible to work in all EU countries  
 🎯 Focused on building a career as a **Data Scientist**
 
-I am developing myself in **Data Science, Machine Learning, AI-powered analytics, Business Intelligence, and data-driven software projects**.  
+I am developing myself in **Data Science, Machine Learning, AI-powered analytics, Business Intelligence, and data-driven software projects**.
+
 My background includes hands-on experience in **Power BI dashboards, SQL-based reporting, data analysis, machine learning, computer vision, and AI pipeline development**.
 
 I enjoy transforming complex datasets into meaningful insights and building intelligent systems that solve real-world problems.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## 🚀 Experience & Education
 
@@ -76,7 +73,7 @@ I enjoy transforming complex datasets into meaningful insights and building inte
   </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## ⭐ Featured Projects
 
@@ -127,7 +124,7 @@ I enjoy transforming complex datasets into meaningful insights and building inte
   </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## 🧠 Current Focus
 
@@ -139,7 +136,7 @@ I enjoy transforming complex datasets into meaningful insights and building inte
 - 🤗 Exploring open-source ML models and AI tools through Hugging Face  
 - 🏆 Practicing data science workflows and competitions through Kaggle  
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## 🛠️ Technical Stack
 
@@ -176,7 +173,7 @@ I enjoy transforming complex datasets into meaningful insights and building inte
 
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
 ## 🌍 Languages
 
@@ -184,19 +181,19 @@ I enjoy transforming complex datasets into meaningful insights and building inte
 - 🇬🇧 English — C1  
 - 🇩🇪 German — A1 / Learning  
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuietLess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuietLess&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuietLess&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuietLess&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuietLess&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuietLess&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuietLess&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
