@@ -171,13 +171,32 @@ My professional experience has introduced me to multiple parts of the data ecosy
 
 **Data Science Track**
 
-Additional training includes coursework and hands-on study in:
+Hands-on training in data science and applied machine learning, covering the development and evaluation of data-driven solutions.
 
-* Data Science
-* Machine Learning
+### Europe Coding School (ECS)
+
+**Data Science & AI Program**
+
+Project-based training covering:
+
+* Data Science & Machine Learning
+* Feature Engineering & Model Evaluation
+* Generative AI & LLM APIs
+* Computer Vision with OpenCV
+* Deep Learning & Neural Networks
+* CNN-based Image Classification
+* Streamlit Application Development
+* Deployment & End-to-End AI Projects
+
+Completed multiple hands-on projects and developed **Buy or Bye**, an explainable purchase-intent prediction system, as the final capstone project.
+
+### Additional Training
+
+Additional coursework and hands-on study in:
+
 * Generative AI
 * Prompt Engineering
-* Computer Vision
+* Business Intelligence
 * Applied AI Development
 
 ![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
