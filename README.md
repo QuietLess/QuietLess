@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8B5CF6,100:EC4899&height=200&section=header&text=Tolga%20Degirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Data%20Scientist&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:38BDF8,50:8B5CF6,100\:EC4899\&height=200\&section=header\&text=Tolga%20Degirmenci\&fontSize=42\&fontColor=ffffff\&fontAlignY=35\&desc=Data%20Scientist%20%7C%20ML%20Engineer\&descSize=18\&descColor=ffffff\&descAlignY=55\&animation=fadeIn)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Aspiring+Data+Scientist;Data+Analysis+%7C+Machine+Learning+%7C+AI;Building+data-driven+and+AI-powered+solutions;Computer+Engineering+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=760&height=35&lines=Data+Scientist+%7C+ML+Engineer;Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;Building+end-to-end+AI+and+data+products;Computer+Engineering+Graduate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,181 +31,228 @@
   <img src="https://komarev.com/ghpvc/?username=QuietLess&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
 
-## :technologist: &nbsp;About Me
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td><strong>Education</strong></td>
-    <td>Computer Engineering Graduate | Işık University (2019 - 2025)</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Istanbul, Türkiye</td>
-  </tr>
-  <tr>
-    <td><strong>Work Eligibility</strong></td>
-    <td>Dual citizenship with Turkey & Greece (EU) — eligible to work in all EU countries</td>
-  </tr>
-  <tr>
-    <td><strong>Career Focus</strong></td>
-    <td>Aspiring Data Scientist</td>
-  </tr>
-</table> 
+I am a **Computer Engineering graduate** focused on **Data Science, Machine Learning and AI Engineering**.
 
-I am focused on building a career in **Data Science**, with a strong interest in **Machine Learning, AI-powered analytics, Business Intelligence, and data-driven software projects**.
+I enjoy building end-to-end systems that go beyond model training — from **data preparation, feature engineering and model evaluation** to **explainability, deployment and user-facing AI applications**.
 
-My background includes hands-on experience in **Power BI dashboards, SQL-based reporting, data analysis, machine learning, computer vision, and AI pipeline development**. I enjoy transforming complex datasets into meaningful insights and building intelligent systems that solve real-world problems.
+My experience spans **machine learning, computer vision, generative AI, business intelligence and data analytics**, with projects covering real-time CV systems, explainable predictive modeling and LLM-powered pipelines.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+* 🎓 **BSc Computer Engineering — Işık University**
+* 📍 Istanbul, Türkiye
+* 🇪🇺 **EU Citizen — authorized to work across the European Union**
+* 💼 Open to **Data Scientist, Machine Learning Engineer and AI Engineer** opportunities across Europe
+* 🧠 Interested in **Applied ML, Computer Vision, GenAI and intelligent data products**
 
-## :rocket: &nbsp;Experience & Education
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
+
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>:briefcase: Experience</h4>
-      <ul>
-        <li><strong>Doğuş Teknoloji</strong><br/>Business Intelligence & Data Warehouse Intern</li>
-        <li><strong>DenizBank</strong><br/>Management Information Systems Intern</li>
-        <li><strong>OBAMIND Teknoloji Hizmetleri</strong><br/>Business Intelligence Intern</li>
-        <li><strong>Argenit Teknoloji</strong><br/>Machine Learning Engineering Intern</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>:mortar_board: Education</h4>
-      <ul>
-        <li><strong>Işık University</strong><br/>BSc Computer Science, 2019 - 2025</li>
-        <li><strong>Hacı Sabancı Anatolian High School</strong><br/>2015 - 2019</li>
-      </ul>
-      <h4>:star: Learning Path</h4>
-      <ul>
-        <li><strong>Google</strong> — Artificial Intelligence and Technology Academy</li>
-        <li><strong>Miuul</strong> — Data Science Path</li>
-        <li><strong>Miuul</strong> — GenAI and Prompt Engineer Path</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Buy or Bye](https://github.com/QuietLess/Buy-or-Bye-)
+
+**Explainable Purchase Intent Prediction**
+
+End-to-end machine learning system for predicting whether an e-commerce browsing session will result in a purchase.
+
+The project combines model ensembling, probability calibration, cost-sensitive decision thresholds, feature engineering and SHAP-based explainability.
+
+**Highlights**
+
+* Calibrated ensemble modeling
+* LightGBM & Random Forest
+* Cost-sensitive threshold optimization
+* SHAP explainability
+* Temporal robustness analysis
+* Streamlit application
+
+**Tech:** Python, Pandas, Scikit-learn, LightGBM, SHAP, Streamlit
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ [Suspicious Activity Monitor](https://github.com/QuietLess/Suspicious-Activity-Monitor)
+
+**Real-Time Computer Vision Security System**
+
+A full-stack AI system designed to analyze live video streams, detect suspicious objects and activities, and notify users through a mobile application.
+
+The project integrates real-time computer vision processing with cloud services and a mobile interface.
+
+**Highlights**
+
+* YOLOv11 object detection
+* Real-time video processing
+* Python backend
+* Firebase integration
+* SwiftUI mobile application
+* Authentication and alert workflows
+
+**Tech:** Python, YOLOv11, OpenCV, Firebase, SwiftUI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [YouTube AI Lyrics & Album Analysis Agent](https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent)
+
+**LLM-Powered Music Analysis Pipeline**
+
+An AI pipeline that starts from a YouTube music URL, identifies the artist and track, retrieves album and lyrics information, and performs semantic and token-level analysis.
+
+**Highlights**
+
+* LLM orchestration
+* Automated web data retrieval
+* Lyrics processing
+* Embedding-based semantic analysis
+* Structured AI-generated insights
+
+**Tech:** Python, GPT-4o-mini, Apify, Genius, Nomic Embeddings
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 [Vision Edit Studio](https://github.com/QuietLess/Vision-Edit-Studio)
+
+**Interactive Computer Vision Application**
+
+A modular image-processing application for experimenting with computer vision operations through an accessible Streamlit interface.
+
+**Highlights**
+
+* Image transformations
+* OpenCV filters
+* Image analysis utilities
+* Modular Python architecture
+* Automated tests
+* GitHub Actions
+* Streamlit deployment
+
+**Tech:** Python, OpenCV, NumPy, Streamlit, GitHub Actions
+
+</td>
+</tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
 
-## :bulb: &nbsp;Featured Projects
+## 💼 Experience
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>
-        <a href="https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent">
-          🎵 YouTube AI Lyrics & Album Analysis Agent
-        </a>
-      </h3>
-      <p>
-        End-to-end AI pipeline that analyzes a YouTube music video URL, identifies the artist,
-        retrieves album information, processes lyrics, and generates token-level analytics.
-      </p>
-      <p>
-        <strong>Tech:</strong> Python, GPT-4o-mini, Apify, Genius scraping, Nomic embeddings
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>
-        <a href="https://github.com/QuietLess/Suspicious-Activity-Monitor">
-          🛡️ Suspicious Activity Monitor
-        </a>
-      </h3>
-      <p>
-        Full-stack real-time surveillance system using deep learning to detect suspicious activity,
-        process video streams, and send mobile alerts.
-      </p>
-      <p>
-        <strong>Tech:</strong> YOLOv11, Computer Vision, Firebase, Mobile App
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>
-        <a href="https://github.com/QuietLess/Darlondia-Gaming-Site">
-          🎮 Darlondia Gaming Website
-        </a>
-      </h3>
-      <p>
-        Gaming community platform where users can rate, review, and discuss games using a modern
-        full-stack web architecture.
-      </p>
-      <p>
-        <strong>Tech:</strong> Spring Boot, React.js, Node.js, MongoDB
-      </p>
-    </td>
-  </tr>
-</table>
+| Company                          | Role                                          |
+| -------------------------------- | --------------------------------------------- |
+| **Argenit Teknoloji**            | Machine Learning Engineering Intern           |
+| **Doğuş Teknoloji**              | Business Intelligence & Data Warehouse Intern |
+| **DenizBank**                    | Management Information Systems Intern         |
+| **OBAMIND Teknoloji Hizmetleri** | Business Intelligence Intern                  |
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+My professional experience has introduced me to multiple parts of the data ecosystem, including **BI, SQL-based analytics, reporting, data warehousing and machine learning development**.
 
-## :dart: &nbsp;Current Focus
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
 
-- 📊 Data Analysis and Data Visualization  
-- 🤖 Machine Learning and Model Evaluation  
-- 🧩 Feature Engineering and Predictive Modeling  
-- 🧠 AI-powered analytics and intelligent data products  
-- 🗄️ SQL-based reporting and Business Intelligence dashboards  
-- 🤗 Exploring open-source AI/ML models through Hugging Face  
-- 🏆 Practicing Data Science workflows through Kaggle  
+## 🎓 Education & Training
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+### Işık University
 
-## :wrench: &nbsp;Technical Expertise
+**BSc Computer Engineering**
+2019 – 2025
 
-<div align="center">
+### Google AI & Technology Academy
 
-![Data Science](https://img.shields.io/badge/Data_Science-F7931E?style=for-the-badge&logo=jupyter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3178C6?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![BI](https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Data Science Track**
 
-</div>
+Additional training includes coursework and hands-on study in:
 
-### &nbsp;Tech Stack
+* Data Science
+* Machine Learning
+* Generative AI
+* Prompt Engineering
+* Computer Vision
+* Applied AI Development
 
-<div align="center">
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logo=opencv&logoColor=white)
+## 🧰 Tech Stack
 
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Data Science & Machine Learning
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Computer Vision & AI
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</p>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+### Data & Business Intelligence
 
-## :earth_africa: &nbsp;Languages
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
 
-- 🇹🇷 Turkish — Native  
-- 🇬🇧 English — C1  
-- 🇩🇪 German — A1 / Learning  
+### Development & Tools
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
 
-## :bar_chart: &nbsp;GitHub Stats
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
+
+## 🔭 Current Focus
+
+I am currently focusing on expanding my skills in:
+
+* 🤖 Production-oriented Machine Learning
+* 🧠 Generative AI & AI Agents
+* 👁️ Computer Vision
+* 🔍 Explainable AI
+* ⚙️ ML pipelines and model deployment
+* 🐳 Docker and containerized AI applications
+* 🌐 API-based model serving
+* 🧪 Testing and reproducible ML workflows
+
+My goal is to strengthen the bridge between **data science experimentation and production-ready AI systems**.
+
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
+
+## 🌍 Languages
+
+* 🇹🇷 Turkish — Native
+* 🇬🇧 English — C1
+* 🇩🇪 German — A1 / Learning
+
+![divider](https://capsule-render.vercel.app/api?type=rect\&color=gradient\&customColorList=2,3,12,19,27\&height=2)
+
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuietLess&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
@@ -224,4 +271,4 @@ My background includes hands-on experience in **Power BI dashboards, SQL-based r
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuietLess&theme=tokyonight" alt="Top Languages by Commit" height="170" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=2,3,12,19,27\&height=120\&section=footer)
