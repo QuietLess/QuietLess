@@ -1,414 +1,198 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:8B5CF6,100:EC4899&height=200&section=header&text=Tolga%20Degirmenci&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn)
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=760&height=35&lines=Data+Scientist+%7C+ML+Engineer;Recommendation+Systems+%7C+MLOps+%7C+Generative+AI;Building+end-to-end+ML+and+AI+products;From+Experimentation+to+Deployment" alt="Typing SVG" />
-  </a>
-</p>
+# Tolga Değirmenci
 
-<p align="center">
-  <a href="mailto:tolgadegirmenci4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/tolga-degirmencii/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/QuietLess">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://quietless.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.kaggle.com/tolgadeirmenci">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://huggingface.co/QuietLess">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-</p>
+### Data Scientist · Machine Learning Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuietLess&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+Building intelligent systems — from experimentation to production.
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+**Recommendation Systems** · **Applied ML** · **MLOps** · **AI Engineering**
 
-## 👨‍💻 About Me
+<br>
 
-I am a **Computer Engineering graduate** focused on **Data Science, Machine Learning, and AI Engineering**.
+[Portfolio](https://quietless.github.io/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/tolga-degirmencii/) &nbsp;·&nbsp;
+[Medium](https://medium.com/@tolgadegirmenci4) &nbsp;·&nbsp;
+[Email](mailto:tolgadegirmenci4@gmail.com)
 
-I enjoy building end-to-end ML systems that go beyond model training — from **data preparation, feature engineering, and model evaluation** to **deployment, monitoring, and user-facing applications**.
+<sub>Based in Istanbul, Türkiye &nbsp;·&nbsp; EU Citizen</sub>
 
-My recent work focuses on **recommendation systems, production-oriented machine learning, learning-to-rank, MLOps, and explainable AI**.
+</div>
 
-Through projects such as **CrossVerse** and **ChurnOps**, I have explored both sides of applied machine learning: developing recommendation models that learn across different domains, and engineering ML systems with experiment tracking, model serving, observability, and automated testing.
+<br>
 
-My experience also spans **computer vision, generative AI, business intelligence, and data analytics**, with projects covering real-time CV systems, predictive modeling, and LLM-powered workflows.
+---
 
-- 🎓 **BSc Computer Engineering — Işık University**
-- 📍 Istanbul, Türkiye
-- 🇪🇺 **EU Citizen — authorized to work across the European Union**
-- 💼 Open to **Data Scientist, Machine Learning Engineer, and AI Engineer** opportunities across Europe
-- 🧠 Interested in **Applied ML, Recommender Systems, MLOps, GenAI, and intelligent data products**
+### 01 / About
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+I'm a Computer Engineering graduate who enjoys turning machine learning ideas into systems that actually work.
 
-## 🚀 Featured Projects
+My interests lie at the intersection of **machine learning, software engineering, and real-world applications**. I work across the full ML lifecycle, from data exploration and model development to deployment, monitoring, and continuous improvement.
+
+Recently, I've been exploring two areas in particular:
+
+- **Recommendation systems** — Building models that understand preferences, connect different domains, and rank relevant content.
+- **Production ML & MLOps** — Designing reproducible pipelines, serving models through APIs, and monitoring their behavior beyond training.
+
+I also enjoy working with computer vision, generative AI, and building tools that make machine learning more accessible.
+
+<br>
+
+### 02 / Selected Work
+
+A selection of projects I've built to explore different challenges in machine learning and AI engineering.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 [CrossVerse](https://github.com/QuietLess/Crossverse)
+<h3>01 — CrossVerse</h3>
 
-**Cross-Domain Hybrid Recommendation System**
+<sub>RECOMMENDATION SYSTEMS / LEARNING TO RANK</sub>
 
-A recommendation system that learns user preferences across **movies, TV shows, and video games**, enabling personalized recommendations between different entertainment domains.
+<br><br>
 
-Built using shared-user interactions from **119K Amazon users** and a two-stage retrieval and ranking architecture.
+**Discover beyond your favorite medium.**
 
-**Highlights**
+A hybrid recommendation engine that connects movies, TV shows, and video games through shared user preferences.
 
-- Cross-domain recommendation engine
-- 119K shared Amazon users
-- Collaborative filtering and implicit ALS
-- Content-based and embedding retrieval
-- Two-tower recommendation model
-- LightGBM LambdaRank
-- Explainable, evidence-based recommendations
-- Movie-to-game and game-to-movie recommendations
-- NDCG@10 evaluation
+Built on interactions from approximately **119,000 Amazon users**, combining collaborative filtering, content embeddings, two-tower retrieval, and LightGBM LambdaRank.
 
-**Results**
+**+16% / +24% NDCG@10** improvement over popularity baselines for movie-to-game and game-to-movie recommendations.
 
-- **+16% NDCG@10** for movie-to-game recommendations
-- **+24% NDCG@10** for game-to-movie recommendations
+<br>
 
-Compared with popularity baselines on held-out users.
+`Python` `LightGBM` `ALS` `Embeddings`
 
-**Tech:** Python, NumPy, LightGBM, Collaborative Filtering, Two-Tower Models, Embeddings, Firebase Hosting, Cloud Run
+<br><br>
 
-**[🚀 Live Demo](https://crossverse-app.web.app/?to=game&t=0.8)**
+[GitHub →](https://github.com/QuietLess/Crossverse) &nbsp;·&nbsp;
+[Live Demo ↗](https://crossverse-app.web.app/?to=game&t=0.8)
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚙️ [ChurnOps](https://github.com/QuietLess/churnops-production-ml)
+<h3>02 — ChurnOps</h3>
 
-**Production ML Churn Prediction Platform**
+<sub>PRODUCTION ML / MLOPS</sub>
 
-An end-to-end machine learning platform that takes a churn prediction model from experimentation to a deployable, observable, and maintainable system.
+<br><br>
 
-Designed to explore the complete **MLOps lifecycle**, including model training, experiment tracking, model registration, API serving, monitoring, and automated delivery.
+**Taking machine learning beyond the notebook.**
 
-**Highlights**
+An end-to-end churn prediction platform covering model development, experiment tracking, deployment, monitoring, and lifecycle management.
 
-- End-to-end machine learning pipeline
-- LightGBM classification
-- MLflow experiment tracking and model registry
-- Champion/challenger model management
-- FastAPI prediction service
-- PostgreSQL prediction logging
-- Evidently data-drift monitoring
-- Prometheus and Grafana observability
-- Docker containerization and CI/CD
-- Automated testing and model lifecycle management
+Features MLflow model registry, FastAPI inference, PostgreSQL logging, drift detection, observability, Docker, and automated CI/CD.
 
-**Results**
+**0.840 ROC-AUC · 0.662 PR-AUC**
 
-- **0.840 ROC-AUC**
-- **0.662 PR-AUC**
-- **0.900 Recall**
-- **107 automated tests**
-- **86% test coverage**
+107 automated tests with 86% coverage.
 
-Results obtained on the held-out test dataset.
+<br>
 
-**Tech:** Python, LightGBM, MLflow, FastAPI, PostgreSQL, Docker, Evidently, Prometheus, Grafana, GitHub Actions
+`LightGBM` `MLflow` `FastAPI` `Docker`
 
-**[📖 Medium Article](https://medium.com/@tolgadegirmenci4/from-notebook-to-production-building-churnops-an-end-to-end-mlops-platform-for-churn-prediction-bbea546f1d25)**
+<br><br>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Buy or Bye](https://github.com/QuietLess/Buy-or-Bye-)
-
-**Explainable Purchase Intent Prediction**
-
-End-to-end machine learning system for predicting whether an e-commerce browsing session will result in a purchase.
-
-The project combines model ensembling, probability calibration, cost-sensitive decision thresholds, feature engineering, and SHAP-based explainability.
-
-**Highlights**
-
-- Calibrated ensemble modeling
-- LightGBM and Random Forest
-- Cost-sensitive threshold optimization
-- SHAP explainability
-- Temporal robustness analysis
-- Interactive what-if analysis
-- Streamlit application
-
-**Results**
-
-- **0.932 ROC-AUC**
-- **0.745 PR-AUC**
-- **0.790 Recall**
-- **0.674 F1-score**
-
-**Tech:** Python, Pandas, Scikit-learn, LightGBM, SHAP, Streamlit
-
-**[🚀 Live Demo](https://buy-or-bye.streamlit.app/)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ [Suspicious Activity Monitor](https://github.com/EEXimium/Suspicious-Activity-Monitor)
-
-**Real-Time Computer Vision Security System**
-
-A full-stack AI system designed to analyze live video streams, detect suspicious objects and activities, and notify users through a mobile application.
-
-The project integrates real-time computer vision processing with cloud services and a mobile interface.
-
-**Highlights**
-
-- YOLOv11 object detection
-- Real-time video processing
-- Python backend
-- Firebase integration
-- SwiftUI mobile application
-- Authentication and alert workflows
-
-**Tech:** Python, YOLOv11, OpenCV, Firebase, SwiftUI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 [YouTube AI Lyrics & Album Analysis Agent](https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent)
-
-**LLM-Powered Music Analysis Pipeline**
-
-An AI pipeline that starts from a YouTube music URL, identifies the artist and track, retrieves album and lyrics information, and performs semantic and token-level analysis.
-
-**Highlights**
-
-- LLM orchestration
-- Automated web data retrieval
-- Lyrics processing
-- Embedding-based semantic analysis
-- Token-level text analytics
-- Structured analysis workflow
-- Reproducible processing
-
-**Tech:** Python, GPT-4o-mini, Apify, Genius, Nomic Embeddings, tiktoken
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 [Vision Edit Studio](https://github.com/QuietLess/Vision-Edit-Studio)
-
-**Interactive Computer Vision Application**
-
-A modular image-processing application for experimenting with computer vision operations through an accessible Streamlit interface.
-
-**Highlights**
-
-- Image transformations
-- OpenCV filters
-- Image analysis utilities
-- Modular Python architecture
-- Automated tests
-- GitHub Actions
-- Streamlit deployment
-
-**Tech:** Python, OpenCV, NumPy, Streamlit, GitHub Actions
-
-**[🚀 Live Demo](https://vision-edit-studio.streamlit.app/)**
+[GitHub →](https://github.com/QuietLess/churnops-production-ml) &nbsp;·&nbsp;
+[Case Study ↗](https://medium.com/@tolgadegirmenci4/from-notebook-to-production-building-churnops-an-end-to-end-mlops-platform-for-churn-prediction-bbea546f1d25)
 
 </td>
 </tr>
 </table>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+<br>
 
-## 💼 Experience
+#### More Projects
 
-| Company | Role |
-| --- | --- |
-| **Argenit Teknoloji** | Machine Learning Engineering Intern |
-| **Doğuş Teknoloji** | Business Intelligence & Data Warehouse Intern |
-| **DenizBank** | Management Information Systems Intern |
-| **OBAMIND Teknoloji Hizmetleri** | Business Intelligence Intern |
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**Buy or Bye ↗**](https://github.com/QuietLess/Buy-or-Bye-) | Explainable purchase-intent prediction with calibrated ensemble models, SHAP, and interactive what-if analysis. [Live demo](https://buy-or-bye.streamlit.app/) | LightGBM, Scikit-learn, Streamlit |
+| [**Suspicious Activity Monitor ↗**](https://github.com/EEXimium/Suspicious-Activity-Monitor) | Real-time computer vision surveillance system with object detection and mobile notifications. | YOLOv11, OpenCV, Firebase, SwiftUI |
+| [**YouTube AI Agent ↗**](https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent) | Automated artist discovery, album analysis, lyrics processing, and LLM-assisted analysis. | Python, GPT-4o-mini, Nomic Embeddings |
+| [**Vision Edit Studio ↗**](https://github.com/QuietLess/Vision-Edit-Studio) | Modular computer vision and image-editing toolkit with an interactive interface. [Live demo](https://vision-edit-studio.streamlit.app/) | OpenCV, NumPy, Streamlit |
 
-My professional experience has introduced me to multiple parts of the data ecosystem, including **BI, SQL-based analytics, reporting, data warehousing, and machine learning development**.
+<br>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+---
 
-## 🎓 Education & Training
+### 03 / Toolbox
 
-### Işık University
+The technologies I work with across research, development, and deployment.
 
-**BSc Computer Engineering**  
-2019 – 2025
+| Area | Technologies |
+|:---|:---|
+| **Languages & Data** | Python, SQL, Pandas, NumPy, PostgreSQL |
+| **Machine Learning** | Scikit-learn, LightGBM, TensorFlow, SHAP |
+| **Recommendation Systems** | Collaborative Filtering, Implicit ALS, Two-Tower Models, LambdaRank |
+| **MLOps & Deployment** | MLflow, FastAPI, Docker, GitHub Actions, Evidently |
+| **Monitoring** | Prometheus, Grafana |
+| **Computer Vision** | OpenCV, YOLO, CNNs |
+| **Generative AI** | LLM APIs, Text Embeddings, Prompt Engineering |
+| **Applications & Cloud** | Streamlit, Firebase, AWS |
 
-### Google AI & Technology Academy
+<br>
 
-**Data Science Track**
+### 04 / Background
 
-Hands-on training in data science and applied machine learning, covering the development and evaluation of data-driven solutions.
+**BSc in Computer Engineering**  
+Işık University · 2019–2025
 
-### Europe Coding School (ECS)
+**Data Science & Artificial Intelligence Program**  
+Europe Coding School · 2026
 
-**Data Science & AI Program — 2026**
+**Data Science Track**  
+Google AI & Technology Academy · 2026
 
-Project-based training covering:
+<br>
 
-- Data Science & Machine Learning
-- Feature Engineering & Model Evaluation
-- Recommendation Systems
-- Generative AI & LLM APIs
-- Computer Vision with OpenCV
-- Deep Learning & Neural Networks
-- CNN-based Image Classification
-- Streamlit Application Development
-- Deployment & End-to-End AI Projects
+**Professional experience**
 
-Completed multiple hands-on projects and developed **Buy or Bye**, an explainable purchase-intent prediction system, as the final capstone project.
+Previously worked with **Doğuş Teknoloji, DenizBank, OBAMIND, and Argenit Teknoloji**, gaining experience across business intelligence, data warehousing, analytics, and machine learning engineering.
 
-### Additional Training
+<br>
 
-Additional coursework and hands-on study in:
+---
 
-- Generative AI
-- Prompt Engineering
-- Business Intelligence
-- Applied AI Development
+### 05 / Currently Exploring
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+```text
+machine-learning/
+├── recommendation-systems
+├── learning-to-rank
+├── experiment-tracking
+├── model-serving
+├── monitoring-and-observability
+└── agentic-ai
+```
 
-## 🧰 Tech Stack
+My goal is to build machine learning systems that are not only accurate, but also **reliable, explainable, and useful in practice**.
 
-### Data Science & Machine Learning
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
-<img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
-
-### Recommendation Systems & Ranking
-
-<p>
-<img src="https://img.shields.io/badge/Recommendation_Systems-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Collaborative_Filtering-6366F1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Implicit_ALS-4F46E5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Two--Tower_Models-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/LambdaRank-A855F7?style=for-the-badge">
-</p>
-
-### MLOps & Model Deployment
-
-<p>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Evidently-7C3AED?style=for-the-badge">
-</p>
-
-### Computer Vision & AI
-
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-</p>
-
-### Data & Business Intelligence
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</p>
-
-### Development & Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
-</p>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
-
-## 🔭 Current Focus
-
-I am currently focusing on expanding my skills in:
-
-- 🧠 Recommendation Systems & Learning-to-Rank
-- 🤖 Production-oriented Machine Learning
-- ⚙️ MLOps & Model Lifecycle Management
-- 📊 Model Monitoring & Observability
-- 🔍 Explainable AI
-- 🧩 Generative AI & AI Agents
-- 👁️ Computer Vision
-- 🐳 Docker and containerized applications
-- 🌐 API-based model serving
-- 🧪 Testing and reproducible ML workflows
-
-My goal is to strengthen the bridge between **data science experimentation and production-ready AI systems**, building models that are not only accurate but also reliable, explainable, and deployable.
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
-
-## 🌍 Languages
-
-- 🇹🇷 Turkish — Native
-- 🇬🇧 English — C1
-- 🇩🇪 German — A1 / Learning
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
-
-## 📊 GitHub Activity
+### 06 / GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuietLess&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="170" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuietLess&theme=github_dark" width="95%" alt="GitHub contribution overview">
+
 </div>
 
-<br />
+<br>
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuietLess&theme=tokyonight" alt="GitHub Profile Summary" />
+
+**Interested in building something together?**
+
+I'm open to opportunities in Data Science, Machine Learning Engineering, and AI Engineering across Europe.
+
+[Let's connect ↗](https://www.linkedin.com/in/tolga-degirmencii/)
+
+<br>
+
+<sub>Designed with simplicity in mind. Built around the work.</sub>
+
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuietLess&theme=tokyonight" alt="Top Languages by Repo" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuietLess&theme=tokyonight" alt="Top Languages by Commit" height="170" />
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
