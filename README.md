@@ -39,64 +39,165 @@ I also enjoy working with computer vision, generative AI, and building tools tha
 
 <br>
 
+
 ### 02 / Selected Work
 
-A selection of projects I've built to explore different challenges in machine learning and AI engineering.
+A selection of projects exploring recommendation systems,
+production machine learning, predictive modeling, and computer vision.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 — CrossVerse</h3>
+<h3>01 / CrossVerse</h3>
 
-<sub>RECOMMENDATION SYSTEMS / LEARNING TO RANK</sub>
+<sub>RECOMMENDATION SYSTEMS · LEARNING TO RANK</sub>
 
 <br><br>
 
-**Discover beyond your favorite medium.**
+<b>Discover beyond your favorite medium.</b>
 
-A hybrid recommendation engine that connects movies, TV shows, and video games through shared user preferences.
+<p>
+A cross-domain hybrid recommendation engine connecting
+movies, TV shows, and video games through shared user preferences.
+</p>
 
-Built on interactions from approximately **119,000 Amazon users**, combining collaborative filtering, content embeddings, two-tower retrieval, and LightGBM LambdaRank.
+<p>
+Built using interactions from approximately <b>119K Amazon users</b>,
+combining collaborative filtering, content embeddings,
+two-tower retrieval, and LightGBM LambdaRank.
+</p>
 
-**+16% / +24% NDCG@10** improvement over popularity baselines for movie-to-game and game-to-movie recommendations.
-
+<b>+16% / +24% NDCG@10</b>
 <br>
-
-`Python` `LightGBM` `ALS` `Embeddings`
+<sub>Improvement over popularity baselines</sub>
 
 <br><br>
 
-[GitHub →](https://github.com/QuietLess/Crossverse) &nbsp;·&nbsp;
-[Live Demo ↗](https://crossverse-app.web.app/?to=game&t=0.8)
+<code>Python</code> <code>LightGBM</code>
+<code>ALS</code> <code>Embeddings</code>
+
+<br><br>
+
+<a href="https://github.com/QuietLess/Crossverse">Source Code ↗</a>
+&nbsp;·&nbsp;
+<a href="https://crossverse-app.web.app/?to=game&t=0.8">Live Demo ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 — ChurnOps</h3>
+<h3>02 / ChurnOps</h3>
 
-<sub>PRODUCTION ML / MLOPS</sub>
+<sub>PRODUCTION MACHINE LEARNING · MLOPS</sub>
 
 <br><br>
 
-**Taking machine learning beyond the notebook.**
+<b>Taking machine learning beyond the notebook.</b>
 
-An end-to-end churn prediction platform covering model development, experiment tracking, deployment, monitoring, and lifecycle management.
+<p>
+An end-to-end churn prediction platform covering
+model development, experiment tracking, deployment,
+monitoring, and model lifecycle management.
+</p>
 
-Features MLflow model registry, FastAPI inference, PostgreSQL logging, drift detection, observability, Docker, and automated CI/CD.
+<p>
+Built with MLflow, FastAPI, PostgreSQL, Docker,
+Evidently, Prometheus, Grafana, and automated CI/CD.
+</p>
 
-**0.840 ROC-AUC · 0.662 PR-AUC**
-
-107 automated tests with 86% coverage.
-
+<b>0.840 ROC-AUC · 0.662 PR-AUC</b>
 <br>
-
-`LightGBM` `MLflow` `FastAPI` `Docker`
+<sub>107 tests · 86% coverage</sub>
 
 <br><br>
 
-[GitHub →](https://github.com/QuietLess/churnops-production-ml) &nbsp;·&nbsp;
-[Case Study ↗](https://medium.com/@tolgadegirmenci4/from-notebook-to-production-building-churnops-an-end-to-end-mlops-platform-for-churn-prediction-bbea546f1d25)
+<code>LightGBM</code> <code>MLflow</code>
+<code>FastAPI</code> <code>Docker</code>
+
+<br><br>
+
+<a href="https://github.com/QuietLess/churnops-production-ml">Source Code ↗</a>
+&nbsp;·&nbsp;
+<a href="https://medium.com/@tolgadegirmenci4/from-notebook-to-production-building-churnops-an-end-to-end-mlops-platform-for-churn-prediction-bbea546f1d25">Case Study ↗</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 / Buy or Bye</h3>
+
+<sub>PREDICTIVE MODELING · EXPLAINABLE AI</sub>
+
+<br><br>
+
+<b>Predicting intent, explaining decisions.</b>
+
+<p>
+An end-to-end purchase intent prediction system
+that combines calibrated ensemble models with
+SHAP-based explainability and interactive what-if analysis.
+</p>
+
+<p>
+Developed using Random Forest and LightGBM,
+with feature engineering, cross-validation,
+threshold optimization, and temporal validation.
+</p>
+
+<b>0.932 ROC-AUC · 0.745 PR-AUC</b>
+<br>
+<sub>0.790 Recall · 0.674 F1-score</sub>
+
+<br><br>
+
+<code>Scikit-learn</code> <code>LightGBM</code>
+<code>SHAP</code> <code>Streamlit</code>
+
+<br><br>
+
+<a href="https://github.com/QuietLess/Buy-or-Bye-">Source Code ↗</a>
+&nbsp;·&nbsp;
+<a href="https://buy-or-bye.streamlit.app/">Live Demo ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 / Suspicious Activity Monitor</h3>
+
+<sub>COMPUTER VISION · FULL-STACK AI</sub>
+
+<br><br>
+
+<b>Turning real-time vision into actionable alerts.</b>
+
+<p>
+A full-stack surveillance system that analyzes
+video streams, detects suspicious objects and activities,
+and delivers alerts through a connected mobile application.
+</p>
+
+<p>
+Combines fine-tuned YOLOv11 detection,
+Python-based video processing, Firebase services,
+and a SwiftUI mobile application.
+</p>
+
+<b>Real-time detection & alerts</b>
+<br>
+<sub>End-to-end graduation project</sub>
+
+<br><br>
+
+<code>YOLOv11</code> <code>OpenCV</code>
+<code>Firebase</code> <code>SwiftUI</code>
+
+<br><br>
+
+<a href="https://github.com/EEXimium/Suspicious-Activity-Monitor">Source Code ↗</a>
+&nbsp;·&nbsp;
+<a href="https://medium.com/@tolgadegirmenci4/8ba366ca26d9">Case Study ↗</a>
 
 </td>
 </tr>
@@ -104,14 +205,12 @@ Features MLflow model registry, FastAPI inference, PostgreSQL logging, drift det
 
 <br>
 
-#### More Projects
+#### Other Projects
 
-| Project | Description | Stack |
-|:---|:---|:---|
-| [**Buy or Bye ↗**](https://github.com/QuietLess/Buy-or-Bye-) | Explainable purchase-intent prediction with calibrated ensemble models, SHAP, and interactive what-if analysis. [Live demo](https://buy-or-bye.streamlit.app/) | LightGBM, Scikit-learn, Streamlit |
-| [**Suspicious Activity Monitor ↗**](https://github.com/EEXimium/Suspicious-Activity-Monitor) | Real-time computer vision surveillance system with object detection and mobile notifications. | YOLOv11, OpenCV, Firebase, SwiftUI |
-| [**YouTube AI Agent ↗**](https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent) | Automated artist discovery, album analysis, lyrics processing, and LLM-assisted analysis. | Python, GPT-4o-mini, Nomic Embeddings |
-| [**Vision Edit Studio ↗**](https://github.com/QuietLess/Vision-Edit-Studio) | Modular computer vision and image-editing toolkit with an interactive interface. [Live demo](https://vision-edit-studio.streamlit.app/) | OpenCV, NumPy, Streamlit |
+| Project | Description |
+|:---|:---|
+| [YouTube AI Lyrics & Album Analysis Agent ↗](https://github.com/QuietLess/YouTube-AI-Lyrics-Album-Analysis-Agent) | Automated music analysis using LLMs, text processing, and embeddings. |
+| [Vision Edit Studio ↗](https://github.com/QuietLess/Vision-Edit-Studio) | Modular computer vision toolkit built with OpenCV and Streamlit. |
 
 <br>
 
